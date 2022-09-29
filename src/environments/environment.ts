@@ -1,4 +1,4 @@
 export const environment = {
-  production: true,
+  production: false,
   baseURL: 'https://backend-jti.herokuapp.com/api/v1/bootcamp'
 };
