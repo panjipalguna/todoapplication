@@ -3,7 +3,7 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false,
+  production: true,
   baseURL: 'https://backend-jti.herokuapp.com/api/v1/bootcamp'
 };
 
